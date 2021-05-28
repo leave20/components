@@ -1,0 +1,20 @@
+{
+  "nameApp": "Components",
+  "routs": [
+    {
+      "rout": "alert",
+      "icon": "add_alerts",
+      "text": "Alerts"
+    },
+    {
+      "rout": "avatar",
+      "icon": "accessibility",
+      "text": "Avatars"
+    },
+    {
+      "rout": "card",
+      "icon": "folder_open",
+      "text": "Cards"
+    }
+  ]
+}
